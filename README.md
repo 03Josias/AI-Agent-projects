@@ -93,5 +93,5 @@ todo lo que hace está definido explícitamente en setup_tools.
 -Sin borrado definitivo accidental
 
 📦 Dependencias
-openai==2.8.1
-python-dotenv==1.2.1
+openai
+python-dotenv
